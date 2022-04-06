@@ -1,0 +1,18 @@
+{
+    "Name": "Renewable_Resources4_Woodmatch",
+    "RequiredGear": ["GEAR_Stone","GEAR_ReclaimedWoodB"],
+    "RequiredGearUnits": [10,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WoodMatches",
+    "CraftedResultCount": 4,
+    "DurationMinutes": 45,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+}

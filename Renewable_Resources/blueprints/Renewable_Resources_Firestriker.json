@@ -1,0 +1,18 @@
+{
+    "Name": "Renewable_Resources_Firestriker",
+    "RequiredGear": ["GEAR_ScrapMetal","GEAR_Stone"],
+    "RequiredGearUnits": [4,8],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FireStriker",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+}

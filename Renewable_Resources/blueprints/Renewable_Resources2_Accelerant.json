@@ -1,0 +1,18 @@
+{
+    "Name": "Renewable_Resources2_Accelerant",
+    "RequiredGear": ["GEAR_ScrapMetal"],
+    "RequiredGearUnits": [6],
+    "KeroseneLitersRequired": 0.24,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hatchet",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Accelerant ",
+    "CraftedResultCount": 6,
+    "DurationMinutes": 120,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+}

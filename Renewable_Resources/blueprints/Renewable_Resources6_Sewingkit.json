@@ -1,0 +1,18 @@
+{
+    "Name": "Renewable_Resources_Sewingkit",
+    "RequiredGear": ["GEAR_Line","GEAR_ScrapMetal"],
+    "RequiredGearUnits": [2,4],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_SewingKit ",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+}
